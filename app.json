@@ -22,17 +22,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.nagatechies.DailyBibleVerse"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "50304956-38d7-4ce1-8aa1-01568966b03d"
-      }
-    },
-    "owner": "merenltr"
+    }
   }
 }
